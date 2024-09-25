@@ -439,8 +439,8 @@ Row | Step | Description | Completed
 4 | 4-4 | What does `log` do? |
 5 | 5-1 | 2nd Favorite emoji | ![text](😁)|
 6 | 5-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/SNew184/learn-git-milestones/commit/15e0a33819dcb54c2e45e516dd7c6b59d7898265) |
-7 | 6-1 | Full path to your working directory | ![text](/Users/swn/Documents/GitHub/learn-git-milestones)
-8 | 6-2 | Link to `commit #3 from CLI` |
+7 | 6-1 | Full path to your working directory | ![text](/Users/swn/Documents/GitHub/learn-git-milestones) |
+8 | 6-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/SNew184/learn-git-milestones/commit/f127cf217dc94e903790d18cb023b58b257dbd4b) |
 9 | 7-1 | Link to `first-website` github.com repo page |
 10 | 8-1 | Link to `first-website` github.io "project site" |
 12 | 9-1 | What is in Owen's dev branch? | 
