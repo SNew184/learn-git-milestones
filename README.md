@@ -443,8 +443,8 @@ Row | Step | Description | Completed
 8 | 6-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/SNew184/learn-git-milestones/commit/f127cf217dc94e903790d18cb023b58b257dbd4b) |
 9 | 7-1 | Link to `first-website` github.com repo page |
 10 | 8-1 | Link to `first-website` github.io "project site" |
-12 | 9-1 | What is in Owen's dev branch? | 
-13 | 10-1 | Link to your new branch on github.com | 
+12 | 9-1 | What is in Owen's dev branch? | Rick roll video |
+13 | 10-1 | Link to your new branch on github.com | [link](https://github.com/SNew184/learn-git-milestones/edit/main/README.md) |
 14 | 11-1 | Link to your network graph | 
 15 | 12-1 | Link to the PR you made on a partner's github.com repo | 
 
